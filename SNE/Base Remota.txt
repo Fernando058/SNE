@@ -1,0 +1,9 @@
+Base de datos: resest_2023
+Nombre de usuario: uef_root
+Correo electrónico: fcardenas058@gmail.com
+
+
+define('DB_HOST', 'db4free.net');
+define('DB_USER', 'uef_root');
+define('DB_PASS', 'uef_root');
+define('DB_NAME', 'resest_2023');
